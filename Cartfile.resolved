@@ -1,0 +1,2 @@
+binary "file:///Users/dengyonghao/Desktop/iOSDemo/RxJMessage/JMessage.json" "3.5.0"
+github "ReactiveX/RxSwift" "4.1.2"
